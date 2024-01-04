@@ -1,0 +1,1570 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+    "correct_answer": "4",
+    "incorrect_answers": ["1", "2", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "When was the FC Schalke 04 founded?",
+    "correct_answer": "1904",
+    "incorrect_answers": ["1909", "2008", "1999"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Who won the UEFA Champions League in 2016?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": [
+      "FC Bayern Munich",
+      "Atletico Madrid",
+      "Manchester City F.C."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Liverpool", "Cheslea", "Manchester United"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "correct_answer": "Wayne Gretzky",
+    "incorrect_answers": ["Mario Lemieux ", "Sidney Crosby", "Gordie Howe"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+    "correct_answer": "Nico Rosberg",
+    "incorrect_answers": ["Lewis Hamilton", "Max Verstappen", "Kimi Raikkonen"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": "Brooklyn",
+    "incorrect_answers": ["Las Vegas", "Boston", "Seattle"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which of the following sports is not part of the triathlon?",
+    "correct_answer": "Horse-Riding",
+    "incorrect_answers": ["Cycling", "Swimming", "Running"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "In bowling, what is the term used for getting three consecutive strikes?",
+    "correct_answer": "Turkey",
+    "incorrect_answers": ["Flamingo", "Birdie", "Eagle"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Bill Tilden", "Boris Becker", "Pete Sampras"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": ["Ayrton Senna", "Fernando Alonso", "Jim Clark"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "incorrect_answers": ["1880", "1863", "1865"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "In baseball, how many fouls are an out?",
+    "correct_answer": "0",
+    "incorrect_answers": ["5", "3", "2"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "How many soccer players should be on the field at the same time?",
+    "correct_answer": "22",
+    "incorrect_answers": ["20", "24", "26"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Who did Steven Gerrard win the Champions League with?",
+    "correct_answer": "Liverpool",
+    "incorrect_answers": ["Real Madrid", "Chelsea", "Man City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which country will host the 2020 Summer Olympics?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["China", "Australia", "Germany"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "incorrect_answers": ["Roy Jones Jr.", "Evander Holyfield", "Lennox Lewis"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "What team did England beat to win in the 1966 World Cup final?",
+    "correct_answer": "West Germany",
+    "incorrect_answers": ["Soviet Union", "Portugal", "Brazil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Red Bull Racing Renault"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+    "correct_answer": "US Open",
+    "incorrect_answers": ["French Open", "Wimbledon", "Australian Open"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["United States of America", "Italy", "Netherlands"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+    "correct_answer": "Ohio State Buckeyes",
+    "incorrect_answers": [
+      "Alabama Crimson Tide",
+      "Clemson Tigers",
+      "Wisconsin Badgers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which team was the 2015-2016 NBA Champions?",
+    "correct_answer": "Cleveland Cavaliers",
+    "incorrect_answers": [
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Oklahoma City Thunders"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+    "correct_answer": "American Football",
+    "incorrect_answers": ["Wrestling", "Archery", "Horse-Racing"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "What year was hockey legend Wayne Gretzky born?",
+    "correct_answer": "1961",
+    "incorrect_answers": ["1965", "1959", "1963"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Brazil", "Paraguay"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+    "correct_answer": "Madeira",
+    "incorrect_answers": ["Terceira", "Santa Maria", "Porto Santo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+    "correct_answer": "Duck",
+    "incorrect_answers": ["Bye", "Beamer", "Carry"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "What is the highest belt you can get in Taekwondo?",
+    "correct_answer": "Black",
+    "incorrect_answers": ["White", "Red", "Green"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+    "correct_answer": "Jules Bianchi",
+    "incorrect_answers": [
+      "Ayrton Senna",
+      "Ronald Ratzenberger",
+      "Gilles Villeneuve"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "incorrect_answers": ["Nike", "Adidas", "Reebok"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct_answer": "82",
+    "incorrect_answers": ["62", "42", "102"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+    "correct_answer": "Owen Hart",
+    "incorrect_answers": ["Chris Benoit", "Lex Luger", "Al Snow"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+    "correct_answer": "61",
+    "incorrect_answers": ["65", "63", "67"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which nation hosted the FIFA World Cup in 2006?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["United Kingdom", "Brazil", "South Africa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which basketball team has attended the most NBA grand finals?",
+    "correct_answer": "Los Angeles Lakers",
+    "incorrect_answers": [
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Golden State Warriors"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Why was The Green Monster at Fenway Park was originally built?",
+    "correct_answer": "To prevent viewing games from outside the park.",
+    "incorrect_answers": [
+      "To make getting home runs harder.",
+      "To display advertisements.",
+      "To provide extra seating."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+    "correct_answer": "Portugal",
+    "incorrect_answers": ["West Germany", "Soviet Union", "Brazil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+    "correct_answer": "Pittsburgh",
+    "incorrect_answers": ["New York", "Seattle", "Tampa Bay"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Who is Manchester United&#039;s leading appearance maker?",
+    "correct_answer": "Ryan Giggs",
+    "incorrect_answers": ["David Beckham", "Wayne Rooney", "Eric Cantona"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": ["Barcelona", "Tokyo", "Los Angeles"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "incorrect_answers": ["Wrench", "Drill", "Screwdriver"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Ten", "Seven", "Eight"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+    "correct_answer": "Eric Cantona",
+    "incorrect_answers": ["David Seamen", "Ashley Cole", "Mark Hughes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1968", "1971", "1970"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+    "correct_answer": "Vladivostok",
+    "incorrect_answers": ["Rostov-on-Don", "Yekaterinburg", "Kaliningrad"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "With which doubles partner did John McEnroe have most success?",
+    "correct_answer": "Peter Fleming",
+    "incorrect_answers": ["Mark Woodforde", "Michael Stich", "Mary Carillo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+    "correct_answer": "Hull City",
+    "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "DING Ning (China)",
+    "incorrect_answers": [
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "The AHL affiliate team of the Boston Bruins is named what?",
+    "correct_answer": "Providence Bruins",
+    "incorrect_answers": [
+      "New Haven Bruins",
+      "Cambridge Bruins",
+      "Hartford Bruins"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "incorrect_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "Ma Long (China)",
+    "incorrect_answers": [
+      "Zhang Jike (China)",
+      "Jun Mizutani (Japan)",
+      "Vladimir Samsonov (Belarus)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "In Canadian football, scoring a rouge is worth how many points?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "correct_answer": "Pelle",
+    "incorrect_answers": ["Insigne", "Barzagli", "Giaccherini"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+    "correct_answer": "1991",
+    "incorrect_answers": ["1990", "2000", "1987"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Sports",
+    "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+    "correct_answer": "Horse Racing",
+    "incorrect_answers": ["Chess", "Jousting", "Fencing"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "How many countries does Mexico border?",
+    "correct_answer": "3",
+    "incorrect_answers": ["2", "4", "1"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What colour is the circle on the Japanese flag?",
+    "correct_answer": "Red",
+    "incorrect_answers": ["White", "Yellow", "Black"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of these is the name of the largest city in the US state Tennessee?",
+    "correct_answer": "Memphis",
+    "incorrect_answers": ["Thebes", "Alexandria", "Luxor"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which country is the home of the largest Japanese population outside of Japan?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": ["China", "Russia", "The United States"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the official language of Costa Rica?",
+    "correct_answer": "Spanish",
+    "incorrect_answers": ["English", "Portuguese", "Creole"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of these is NOT an Australian state or territory?",
+    "correct_answer": "Alberta",
+    "incorrect_answers": ["New South Wales", "Victoria", "Queensland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "The Alps are a mountain range on which continent?",
+    "correct_answer": "Europe",
+    "incorrect_answers": ["North America", "Asia", "Africa"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+    "correct_answer": "Equatorial Guinea",
+    "incorrect_answers": ["Guinea", "Cameroon", "Angola"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which ocean borders the west coast of the United States?",
+    "correct_answer": "Pacific",
+    "incorrect_answers": ["Atlantic", "Indian", "Arctic"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of the following Japanese islands is the biggest?",
+    "correct_answer": "Honshu",
+    "incorrect_answers": ["Hokkaido", "Shikoku", "Kyushu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "The Space Needle is located in which city?",
+    "correct_answer": "Seattle",
+    "incorrect_answers": ["Los Angles", "Toronto", "Vancouver"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the largest country in the world ?",
+    "correct_answer": "Russian Federation",
+    "incorrect_answers": ["China", "Canada", "Brazil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+    "correct_answer": "Basque",
+    "incorrect_answers": ["Galician", "Maltese", "Hungarian"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the largest country in the world?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Canada", "China", "United States"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the capital of the American state of Arizona?",
+    "correct_answer": "Phoenix",
+    "incorrect_answers": ["Montgomery", "Tallahassee", "Raleigh"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+    "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+    "incorrect_answers": [
+      "Poland, Iceland, Italy, Greece, Serbia",
+      "Poland, Iceland, Italy, Greenland, Spain",
+      "Portugal, Iceland, Ireland, Greece, Serbia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "How many federal states does Germany have?",
+    "correct_answer": "16",
+    "incorrect_answers": ["13", "32", "25"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+    "correct_answer": "Samoyedic",
+    "incorrect_answers": ["Hungarian", "Finnish", "Estonian"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the capital of Spain?",
+    "correct_answer": "Madrid",
+    "incorrect_answers": ["Barcelona", "Sevilla", "Toledo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What state is the largest state of the United States of America?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["California", "Texas", "Washington"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+    "correct_answer": "Cyprus",
+    "incorrect_answers": ["Malta", "Greece", "Portugal"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which is the largest city in Morocco?",
+    "correct_answer": "Casablanca",
+    "incorrect_answers": ["Rabat", "Fes", "Sale"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "correct_answer": "San Francisco, California",
+    "incorrect_answers": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which state of the United States is the smallest?",
+    "correct_answer": "Rhode Island ",
+    "incorrect_answers": ["Maine", "Vermont", "Massachusetts"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of these countries is not a United Nations member state?",
+    "correct_answer": "Niue",
+    "incorrect_answers": ["Tuvalu", "South Sudan", "Montenegro"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "How many sovereign states are members of the United Nations?",
+    "correct_answer": "195",
+    "incorrect_answers": ["201", "153", "178"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+    "correct_answer": "Urutora",
+    "incorrect_answers": ["Rungata", "London", "Washington"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "How many countries does Spain have a land border with?",
+    "correct_answer": "5",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "On a London Underground map, what colour is the Circle Line?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": ["Red", "Blue", "Green"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of the following is the longest river in Europe?",
+    "correct_answer": "Volga",
+    "incorrect_answers": ["Danube", "Ural", "Dnieper"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+    "correct_answer": "Pakistan",
+    "incorrect_answers": ["Iran", "Turkey", "Azerbaijan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which one of these countries borders with Poland?",
+    "correct_answer": "Lithuania",
+    "incorrect_answers": ["France", "Norway", "Netherlands"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "correct_answer": "Electric Town",
+    "incorrect_answers": ["Moon Walk River", "Otaku Central ", "Big Eyes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What is the busiest port in Europe?",
+    "correct_answer": "Port of Rotterdam",
+    "incorrect_answers": [
+      "Port of Antwerp",
+      "Port of Hamburg",
+      "Port of Amsterdam"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Where is Hadrian&#039;s Wall located?",
+    "correct_answer": "Carlisle, England",
+    "incorrect_answers": ["Rome, Italy", "Alexandria, Egypt", "Dublin, Ireland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What tiny principality lies between Spain and France?",
+    "correct_answer": "Andorra",
+    "incorrect_answers": ["Liechtenstein", "Monaco", "San Marino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "How many counties in the Republic of Ireland.",
+    "correct_answer": "26",
+    "incorrect_answers": ["32", "28", "30"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What is the largest Muslim country in the world?",
+    "correct_answer": "Indonesia",
+    "incorrect_answers": ["Pakistan", "Saudi Arabia", "Iran"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which of these country&#039;s capitals starts with the letter B?",
+    "correct_answer": "Lebanon",
+    "incorrect_answers": ["Jordan", "Kuwait", "Qatar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+    "correct_answer": "Kashmir",
+    "incorrect_answers": ["Andorra", "Gibraltar", "Quin"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the area of Vatican City?",
+    "correct_answer": "0.44km^2",
+    "incorrect_answers": ["0.10km^2", "0.86km^2", "12.00km^2"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which of these cities is NOT in England?",
+    "correct_answer": "Edinburgh",
+    "incorrect_answers": ["Oxford", "Manchester", "Southampton"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What country is not a part of Scandinavia?",
+    "correct_answer": "Finland",
+    "incorrect_answers": ["Norway", "Sweden", "Denmark"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the largest freshwater lake by volume?",
+    "correct_answer": "Lake Baikal",
+    "incorrect_answers": ["Lake Superior", "Lake Huron", "Lake Michigan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "In which country is Tallinn located?",
+    "correct_answer": "Estonia",
+    "incorrect_answers": ["Finland", "Sweden", "Poland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which of these island countries is located in the Caribbean?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": ["Fiji", "Maldives", "Seychelles"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Vietnam", "Thailand", "Indonesia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "When does Finland celebrate their independence day?",
+    "correct_answer": "December 6th",
+    "incorrect_answers": ["January 2nd", "November 12th", "February 8th"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Fucking is a village in which country?",
+    "correct_answer": "Austria",
+    "incorrect_answers": ["Germany", "Switzerland", "Czech Republic"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Into which basin does the Jordan River flow into?",
+    "correct_answer": "Dead Sea",
+    "incorrect_answers": ["Aral Sea", "Caspian Sea", "Salton Sea"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the second-largest city in Lithuania?",
+    "correct_answer": "Kaunas",
+    "incorrect_answers": ["Panevėžys", "Vilnius", "Klaipėda"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "correct_answer": "Albania",
+    "incorrect_answers": ["Croatia", "Serbia", "Macedonia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which of these countries is NOT a part of the Asian continent?",
+    "correct_answer": "Suriname",
+    "incorrect_answers": ["Georgia", "Russia", "Singapore"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "The Hunua Ranges is located in...",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["Nepal", "China", "Mexico"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the capital of Mauritius?",
+    "correct_answer": "Port Louis",
+    "incorrect_answers": ["Port Moresby", "Port Vila", "Port-au-Prince"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the official German name of the Swiss Federal Railways?",
+    "correct_answer": "Schweizerische Bundesbahnen",
+    "incorrect_answers": [
+      "Schweizerische Nationalbahnen",
+      "Bundesbahnen der Schweiz",
+      "Schweizerische Staatsbahnen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the largest city and commercial capital of Sri Lanka?",
+    "correct_answer": "Colombo",
+    "incorrect_answers": ["Moratuwa", "Negombo", "Kandy"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+    "correct_answer": "Lishana Deni",
+    "incorrect_answers": [
+      "Hulaul&aacute;",
+      "Lishan Didan",
+      "Chaldean Neo-Aramaic"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+    "correct_answer": "Crown",
+    "incorrect_answers": ["Bird", "Sickle", "Tree"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which is not a country in Africa?",
+    "correct_answer": "Guyana",
+    "incorrect_answers": ["Senegal", "Liberia", "Somalia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+    "correct_answer": "John Blunt",
+    "incorrect_answers": ["Daniel Defoe", "Robert Harley", "John Churchill"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "What year did World War I begin?",
+    "correct_answer": "1914",
+    "incorrect_answers": ["1905", "1919", "1925"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Who was the first president of the United States?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["James Madison", "Thomas Jefferson", "James K. Polk"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which of these countries remained neutral during World War II?",
+    "correct_answer": "Switzerland",
+    "incorrect_answers": ["United Kingdom", "France", "Italy"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+    "correct_answer": "Nagasaki",
+    "incorrect_answers": ["Kawasaki", "Tokyo", "Kagoshima"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "In 1453, which important city fell?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": ["Rome", "Hamburg", "Athens"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+    "correct_answer": "Hannibal",
+    "incorrect_answers": ["Garmanicus", "Alexander the Great", "Tiberius"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+    "correct_answer": "Marie Antoinette",
+    "incorrect_answers": ["Czar Nicholas II", "Elizabeth I", "Henry VIII"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+    "correct_answer": "1721",
+    "incorrect_answers": ["1726", "1727", "1724"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "The Ottoman Empire was dissolved after their loss in which war?",
+    "correct_answer": "World War I",
+    "incorrect_answers": [
+      "Crimean War",
+      "Serbian Revolution",
+      "Second Balkan War"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "What country joined the EU in 2013?",
+    "correct_answer": "Croatia",
+    "incorrect_answers": ["Bulgaria", "Slovenia", "Turkey"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Who led the Communist Revolution of Russia?",
+    "correct_answer": "Vladimir Lenin",
+    "incorrect_answers": [
+      "Joseph Stalin",
+      "Vladimir Putin",
+      "Mikhail Gorbachev"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "These two countries held a commonwealth from the 16th to 18th century.",
+    "correct_answer": "Poland and Lithuania",
+    "incorrect_answers": [
+      "Hutu and Rwanda",
+      "North Korea and South Korea",
+      "Bangladesh and Bhutan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "What is the historical name of Sri Lanka?",
+    "correct_answer": "Ceylon",
+    "incorrect_answers": ["Myanmar", "Colombo", "Badulla"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which of the following countries was not an axis power during World War II?",
+    "correct_answer": " Soviet Union",
+    "incorrect_answers": ["Italy", "Germany", "Japan"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "What was the first sport to have been played on the moon?",
+    "correct_answer": "Golf",
+    "incorrect_answers": ["Football", "Tennis", "Soccer"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+    "correct_answer": "Poland",
+    "incorrect_answers": ["Czechoslovakia", "Austria", "Hungary"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which of the following African countries was most successful in resisting colonization?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["C&ocirc;te d&rsquo;Ivoire", "Congo", "Namibia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+    "correct_answer": "1990",
+    "incorrect_answers": ["1992", "1988", "1986"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+    "correct_answer": "Afghanistan",
+    "incorrect_answers": ["China", "Iraq", "Russia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Adolf Hitler was born on which date?",
+    "correct_answer": "April 20, 1889",
+    "incorrect_answers": ["June 12, 1889", "February 6, 1889", "April 16, 1889"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In which year did the First World War begin?",
+    "correct_answer": "1914",
+    "incorrect_answers": ["1930", "1917", "1939"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+    "correct_answer": "Frank Lloyd Wright",
+    "incorrect_answers": ["Antoni Gaudi", "Frank Gehry", "Le Corbusier"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?",
+    "correct_answer": "3 to 6 percent",
+    "incorrect_answers": [
+      "6 to 10 percent",
+      "1 to 3 percent",
+      "less than 1 percent"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which country gifted the Statue of Liberty to the United States of America?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Spain", "England", "Germany"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which of the following snipers has the highest amount of confirmed kills?",
+    "correct_answer": "Simo H&auml;yh&auml;",
+    "incorrect_answers": ["Chris Kyle", "Vasily Zaytsev", "Craig Harrison"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In what prison was Adolf Hitler held in 1924?",
+    "correct_answer": "Landsberg Prison",
+    "incorrect_answers": ["Spandau Prison", "Ebrach Abbey", "Hohenasperg"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+    "correct_answer": "Irish Republican Army",
+    "incorrect_answers": [
+      "Irish Rebel Alliance",
+      "Irish Reformation Army",
+      "Irish-Royal Alliance"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+    "correct_answer": "The Flamingo",
+    "incorrect_answers": ["The MGM Grand", "The Sands", "The Sahara"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "When did L. L. Zamenhof first publish &quot;Unua Libro&quot;, the first publication describing his international language Esperanto?",
+    "correct_answer": "1887",
+    "incorrect_answers": ["1897", "1905", "1915"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+    "correct_answer": "107 BCE",
+    "incorrect_answers": ["42 BCE", "264 BCE", "102 CE"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which of the following Presidents of the United States was assassinated?",
+    "correct_answer": "William McKinley",
+    "incorrect_answers": [
+      "Lyndon Johnson",
+      "Chester Arthur",
+      "Franklin Roosevelt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+    "correct_answer": "Shamshi-Adad III",
+    "incorrect_answers": ["Shalmaneser V", "Esharhaddon", "Ashur-nasir-pal II"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+    "correct_answer": "Richard III",
+    "incorrect_answers": ["Edward V", "Henry VII", "James I"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+    "correct_answer": "The Central Powers",
+    "incorrect_answers": [
+      "The Axis Powers",
+      "The Federation of Empires",
+      "Authoritarian Alliance"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+    "correct_answer": "1969",
+    "incorrect_answers": ["1965", "1966", "1973"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+    "correct_answer": "Agent Orange",
+    "incorrect_answers": ["Phosgene", "Mustard Gas", "Hydrogen Cyanide"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "When did the Battle of the Bulge end?",
+    "correct_answer": "January 25, 1945",
+    "incorrect_answers": [
+      "August 6, 1945",
+      "December 7, 1941",
+      "December 16, 1944"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "What was the total length of the Titanic?",
+    "correct_answer": "882 ft | 268.8 m",
+    "incorrect_answers": [
+      "759 ft | 231.3 m",
+      "1042 ft | 317.6 m",
+      "825 ft | 251.5 m"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+    "correct_answer": "USS Hornet",
+    "incorrect_answers": ["USS Enterprise", "USS Lexington", "USS Saratoga"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+    "correct_answer": "Australia",
+    "incorrect_answers": ["India", "Canada", "Brazil"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+    "correct_answer": "Surveyor to the City of London",
+    "incorrect_answers": [
+      "Professor of Mathematics",
+      "Warden of the Royal Mint",
+      "Member of Parliament"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "correct_answer": "Operation Typhoon",
+    "incorrect_answers": [
+      "Operation Sunflower",
+      "Operation Barbarossa",
+      "Case Blue"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which countries participated in the Lobster War?",
+    "correct_answer": "France and Brazil",
+    "incorrect_answers": [
+      "Canada and Norway",
+      "Australia and New Zealand",
+      "United States and England"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+    "correct_answer": "Mamluk",
+    "incorrect_answers": ["Ayyubid", "Ummayyad", "Seljuq"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which of these theoretical phycisists first predicted the existence of antimatter?",
+    "correct_answer": "Paul Dirac",
+    "incorrect_answers": ["Niels Bohr", "Albert Einstein", "Werner Heisenberg"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+    "correct_answer": "Werner Heisenberg",
+    "incorrect_answers": ["John von Neumann", "Albert Einstein", "Max Planck"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+    "correct_answer": "Nationalist Spain",
+    "incorrect_answers": ["Republican Spain", "Popular Front", "Papal State"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+    "correct_answer": "Alexander VI",
+    "incorrect_answers": ["Innocent V", "Urban II", "Pius III"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Toussaint Louverture led a successful slave revolt in which country?",
+    "correct_answer": "Haiti",
+    "incorrect_answers": ["France", "Cuba", "United States"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+    "correct_answer": "Franklin Pierce",
+    "incorrect_answers": ["Andrew Johnson", "Abraham Lincoln", "James Polk"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+    "correct_answer": "Hong Kong",
+    "incorrect_answers": ["India", "Australia", "Ireland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+    "correct_answer": "Richard Neville",
+    "incorrect_answers": ["Richard III", "Henry V", "Thomas Warwick"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?",
+    "correct_answer": "Navarre",
+    "incorrect_answers": ["Galicia", "Granada", "Catalonia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "What was the original name of New York City?",
+    "correct_answer": "New Amsterdam",
+    "incorrect_answers": ["New London", "New Paris", "New Rome"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which of the following physicists did NOT work on the Manhattan project?",
+    "correct_answer": "Murray Gell-Mann",
+    "incorrect_answers": [
+      "Richard Feynman",
+      "J. Robert Oppenheimer",
+      "John Von-Neumann"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+    "correct_answer": "Justinian I",
+    "incorrect_answers": ["Constantine IV", "Arcadius", "Theodosius the Great"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "When was the city of Rome, Italy founded?",
+    "correct_answer": "753 BCE",
+    "incorrect_answers": ["902 BCE", "524 BCE", "697 BCE"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+    "correct_answer": "January 30, 1933",
+    "incorrect_answers": [
+      "September 1, 1939",
+      "February 27, 1933",
+      "October 6, 1939"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+    "correct_answer": "Aragon",
+    "incorrect_answers": ["Galicia", "Le&oacute;n", "Navarre"]
+  }
+]

@@ -1,0 +1,2147 @@
+[
+  {
+    "id": "c8389559-412f-4a36-ad14-6a2c4854bd28",
+    "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+    "correct_answer": "4",
+    "all_answers": ["1", "2", "3", "4"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "4bcbfd20-8d64-4c9f-b4f4-92babe9444d7",
+    "question": "When was the FC Schalke 04 founded?",
+    "correct_answer": "1904",
+    "all_answers": ["1909", "2008", "1999", "1904"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "488da823-4fd4-4364-8828-3af22e97ecbc",
+    "question": "Who won the UEFA Champions League in 2016?",
+    "correct_answer": "Real Madrid C.F.",
+    "all_answers": [
+      "FC Bayern Munich",
+      "Atletico Madrid",
+      "Manchester City F.C.",
+      "Real Madrid C.F."
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "97171d0e-dd19-4a7e-ad8f-9d540f0980b9",
+    "question": "Which team won the 2015-16 English Premier League?",
+    "correct_answer": "Leicester City",
+    "all_answers": [
+      "Liverpool",
+      "Cheslea",
+      "Manchester United",
+      "Leicester City"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "39906cf7-d0d7-4cc0-9faa-7cdb28289fa2",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "correct_answer": "Wayne Gretzky",
+    "all_answers": [
+      "Mario Lemieux ",
+      "Sidney Crosby",
+      "Gordie Howe",
+      "Wayne Gretzky"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "2336f6ed-36ab-46a8-b51b-8a7fee7d935e",
+    "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+    "correct_answer": "Nico Rosberg",
+    "all_answers": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Kimi Raikkonen",
+      "Nico Rosberg"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "ba54d489-2e34-43f8-bd7d-d2526b7f0d3b",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": "Brooklyn",
+    "all_answers": ["Las Vegas", "Boston", "Seattle", "Brooklyn"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "432add1c-a53d-44b0-a997-6959f84e3ae7",
+    "question": "Which of the following sports is not part of the triathlon?",
+    "correct_answer": "Horse-Riding",
+    "all_answers": ["Cycling", "Swimming", "Running", "Horse-Riding"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "4b290395-bf5c-46b9-a730-c1964431a335",
+    "question": "In bowling, what is the term used for getting three consecutive strikes?",
+    "correct_answer": "Turkey",
+    "all_answers": ["Flamingo", "Birdie", "Eagle", "Turkey"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "776c61e0-39fd-45bb-a9c8-4620f0465120",
+    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+    "correct_answer": "Leicester City",
+    "all_answers": [
+      "Northampton Town",
+      "Bradford City",
+      "West Bromwich Albion",
+      "Leicester City"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "d77a10e6-b63c-401b-b65e-f3de54ffcb61",
+    "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+    "correct_answer": "Roger Federer",
+    "all_answers": [
+      "Bill Tilden",
+      "Boris Becker",
+      "Pete Sampras",
+      "Roger Federer"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "62876b8b-8ff1-4fd1-b2dd-f2299726e964",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "all_answers": [
+      "Ayrton Senna",
+      "Fernando Alonso",
+      "Jim Clark",
+      "Michael Schumacher"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "d66c040f-b15d-4361-8dc5-81810f837165",
+    "question": "When was the first official international game played?",
+    "correct_answer": "1872",
+    "all_answers": ["1880", "1863", "1865", "1872"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.882Z",
+    "updatedAt": "2024-01-03T13:46:10.882Z"
+  },
+  {
+    "id": "bc74c736-e1ef-4f8f-ad03-95f1249cefef",
+    "question": "In baseball, how many fouls are an out?",
+    "correct_answer": "0",
+    "all_answers": ["5", "3", "2", "0"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "45a9a3df-14f2-4145-b0aa-abd5986942ed",
+    "question": "How many soccer players should be on the field at the same time?",
+    "correct_answer": "22",
+    "all_answers": ["20", "24", "26", "22"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "1b6e1fde-b3e5-40e6-a5ab-15e58230e1d2",
+    "question": "Who did Steven Gerrard win the Champions League with?",
+    "correct_answer": "Liverpool",
+    "all_answers": ["Real Madrid", "Chelsea", "Man City", "Liverpool"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "c8c1857f-9f9b-4d14-83f3-cbd95fa9cf52",
+    "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+    "correct_answer": "Leicester City",
+    "all_answers": [
+      "Tottenham Hotspur",
+      "Watford",
+      "Stoke City",
+      "Leicester City"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "1da2d392-d266-4607-9a75-f17c32623bd6",
+    "question": "Which country will host the 2020 Summer Olympics?",
+    "correct_answer": "Japan",
+    "all_answers": ["China", "Australia", "Germany", "Japan"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "c993bf1a-47fb-4011-99d3-708affb6253a",
+    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+    "correct_answer": "Mike Tyson",
+    "all_answers": [
+      "Roy Jones Jr.",
+      "Evander Holyfield",
+      "Lennox Lewis",
+      "Mike Tyson"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "129d0d67-86f0-4bab-acfb-e8c70fc3ae3e",
+    "question": "What team did England beat to win in the 1966 World Cup final?",
+    "correct_answer": "West Germany",
+    "all_answers": ["Soviet Union", "Portugal", "Brazil", "West Germany"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "41122a87-8972-411b-baed-a80c3f0e5d6a",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "all_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Red Bull Racing Renault",
+      "Mercedes-AMG Petronas"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "c339dce8-8749-4f24-bf27-1f6a5d201fa8",
+    "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+    "correct_answer": "US Open",
+    "all_answers": ["French Open", "Wimbledon", "Australian Open", "US Open"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "903fabd3-151e-4248-a26b-284077343841",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": "Tunisia",
+    "all_answers": [
+      "United States of America",
+      "Italy",
+      "Netherlands",
+      "Tunisia"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "9de8512f-a4b9-4ce2-85bd-1bfe9c565eb6",
+    "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+    "correct_answer": "Ohio State Buckeyes",
+    "all_answers": [
+      "Alabama Crimson Tide",
+      "Clemson Tigers",
+      "Wisconsin Badgers",
+      "Ohio State Buckeyes"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.883Z",
+    "updatedAt": "2024-01-03T13:46:10.883Z"
+  },
+  {
+    "id": "aed34dea-bd55-426e-ab43-3b8891e92744",
+    "question": "Which team was the 2015-2016 NBA Champions?",
+    "correct_answer": "Cleveland Cavaliers",
+    "all_answers": [
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Oklahoma City Thunders",
+      "Cleveland Cavaliers"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "55d8ea18-5b8b-4a91-bef9-f8bcc2510e6c",
+    "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+    "correct_answer": "American Football",
+    "all_answers": [
+      "Wrestling",
+      "Archery",
+      "Horse-Racing",
+      "American Football"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "822f2abc-3508-4635-a35d-997e98184e12",
+    "question": "What year was hockey legend Wayne Gretzky born?",
+    "correct_answer": "1961",
+    "all_answers": ["1965", "1959", "1963", "1961"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "d712ec69-eb32-4aba-a25c-b0d127bd2e63",
+    "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+    "correct_answer": "Chile",
+    "all_answers": ["Argentina", "Brazil", "Paraguay", "Chile"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "bbe82677-fef7-4486-b8e5-97599c961fe5",
+    "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+    "correct_answer": "Madeira",
+    "all_answers": ["Terceira", "Santa Maria", "Porto Santo", "Madeira"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.884Z",
+    "updatedAt": "2024-01-03T13:46:10.884Z"
+  },
+  {
+    "id": "1a19c6a8-0f30-43b1-9d92-b35b65e67fcd",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "all_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys",
+      "Penrith Panthers"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "1dcdb3b2-4f68-4c9c-8771-b88b43740328",
+    "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+    "correct_answer": "Duck",
+    "all_answers": ["Bye", "Beamer", "Carry", "Duck"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "c6f1f09a-d80f-406b-9c44-0a22e69541dc",
+    "question": "What is the highest belt you can get in Taekwondo?",
+    "correct_answer": "Black",
+    "all_answers": ["White", "Red", "Green", "Black"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "9c0d1401-10ff-49dc-8461-454097829146",
+    "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+    "correct_answer": "Jules Bianchi",
+    "all_answers": [
+      "Ayrton Senna",
+      "Ronald Ratzenberger",
+      "Gilles Villeneuve",
+      "Jules Bianchi"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "56c74e4b-0176-43a9-ad92-4499aa602a55",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "all_answers": ["Nike", "Adidas", "Reebok", "Puma"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "1e3c8f37-77a6-4871-b6ec-b183bfaab6a8",
+    "question": "How many scoring zones are there on a conventional dart board?",
+    "correct_answer": "82",
+    "all_answers": ["62", "42", "102", "82"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "c72c065f-8bea-4c42-8591-a122eace341e",
+    "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+    "correct_answer": "Owen Hart",
+    "all_answers": ["Chris Benoit", "Lex Luger", "Al Snow", "Owen Hart"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "062942b9-506d-4d97-bb34-7bde9fbda4a4",
+    "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+    "correct_answer": "61",
+    "all_answers": ["65", "63", "67", "61"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "f53a5c2e-6273-4307-952b-87c6253fb2ea",
+    "question": "Which nation hosted the FIFA World Cup in 2006?",
+    "correct_answer": "Germany",
+    "all_answers": ["United Kingdom", "Brazil", "South Africa", "Germany"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "8753ec5d-1c62-4ea2-92d0-84a8bf36f441",
+    "question": "Which basketball team has attended the most NBA grand finals?",
+    "correct_answer": "Los Angeles Lakers",
+    "all_answers": [
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Golden State Warriors",
+      "Los Angeles Lakers"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "13765857-844f-4f1f-9069-e60f647e287c",
+    "question": "Why was The Green Monster at Fenway Park was originally built?",
+    "correct_answer": "To prevent viewing games from outside the park.",
+    "all_answers": [
+      "To make getting home runs harder.",
+      "To display advertisements.",
+      "To provide extra seating.",
+      "To prevent viewing games from outside the park."
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "924e8d2b-1461-4da6-aec9-84d356eb9d6d",
+    "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+    "correct_answer": "Portugal",
+    "all_answers": ["West Germany", "Soviet Union", "Brazil", "Portugal"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "24beb7e0-ffa6-457e-bd9d-2662194f89af",
+    "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+    "correct_answer": "Pittsburgh",
+    "all_answers": ["New York", "Seattle", "Tampa Bay", "Pittsburgh"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "daaaf81d-ec38-4ba4-803a-198952dd4ab5",
+    "question": "Who is Manchester United&#039;s leading appearance maker?",
+    "correct_answer": "Ryan Giggs",
+    "all_answers": [
+      "David Beckham",
+      "Wayne Rooney",
+      "Eric Cantona",
+      "Ryan Giggs"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "43836d45-6e1f-4a11-ac9e-a5b2cc1ce48a",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "correct_answer": "Moscow",
+    "all_answers": ["Barcelona", "Tokyo", "Los Angeles", "Moscow"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.885Z",
+    "updatedAt": "2024-01-03T13:46:10.885Z"
+  },
+  {
+    "id": "5bec7452-a18e-4038-88e4-31b1732fbde8",
+    "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "all_answers": ["Wrench", "Drill", "Screwdriver", "Hammer"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "ac13b00c-e841-4ff4-8564-4ed29a662bb8",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "all_answers": ["Ten", "Seven", "Eight", "Nine"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "7958f50e-8a66-45b7-85a1-97ebfa1e1b5b",
+    "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+    "correct_answer": "Eric Cantona",
+    "all_answers": [
+      "David Seamen",
+      "Ashley Cole",
+      "Mark Hughes",
+      "Eric Cantona"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "7f68ac15-679e-4ff1-83be-4830c10ebb59",
+    "question": "Which year was the third Super Bowl held?",
+    "correct_answer": "1969",
+    "all_answers": ["1968", "1971", "1970", "1969"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "8eb62646-ae42-4845-87c5-91e25164735c",
+    "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+    "correct_answer": "Vladivostok",
+    "all_answers": [
+      "Rostov-on-Don",
+      "Yekaterinburg",
+      "Kaliningrad",
+      "Vladivostok"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "9593b63e-6b0b-4390-b134-20213ed70b17",
+    "question": "With which doubles partner did John McEnroe have most success?",
+    "correct_answer": "Peter Fleming",
+    "all_answers": [
+      "Mark Woodforde",
+      "Michael Stich",
+      "Mary Carillo",
+      "Peter Fleming"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "7616ca81-034b-43b3-a1ef-3368f047206b",
+    "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+    "correct_answer": "Hull City",
+    "all_answers": [
+      "Cardiff City",
+      "Bristol City",
+      "Manchester City",
+      "Hull City"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "d51f4306-5624-439a-abdc-e8064bdfe972",
+    "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "DING Ning (China)",
+    "all_answers": [
+      "LI Xiaoxia (China)",
+      "Ai FUKUHARA (Japan)",
+      "Song KIM (North Korea)",
+      "DING Ning (China)"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "3f764ae2-f6db-48d2-a9d8-3f27f00871d9",
+    "question": "The AHL affiliate team of the Boston Bruins is named what?",
+    "correct_answer": "Providence Bruins",
+    "all_answers": [
+      "New Haven Bruins",
+      "Cambridge Bruins",
+      "Hartford Bruins",
+      "Providence Bruins"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "89938fdc-4da1-4312-9799-fd0ed1e6cd37",
+    "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+    "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+    "all_answers": [
+      "Cristiano Ronaldo los Santos Diego",
+      "Cristiano Armando Diego Ronaldo",
+      "Cristiano Luis Armando Ronaldo",
+      "Cristiano Ronaldo dos Santos Aveiro"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "4c67310c-ddf8-40f3-800d-032eb0a1322d",
+    "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "Ma Long (China)",
+    "all_answers": [
+      "Zhang Jike (China)",
+      "Jun Mizutani (Japan)",
+      "Vladimir Samsonov (Belarus)",
+      "Ma Long (China)"
+    ],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "a7fa507e-94e7-4ffb-8f95-2490830baf98",
+    "question": "In Canadian football, scoring a rouge is worth how many points?",
+    "correct_answer": "1",
+    "all_answers": ["2", "3", "4", "1"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "fc927d87-2383-49f5-a826-da00404e08c7",
+    "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "correct_answer": "Pelle",
+    "all_answers": ["Insigne", "Barzagli", "Giaccherini", "Pelle"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "9a5fd3a2-4d4e-4912-888f-7805cae20537",
+    "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+    "correct_answer": "1991",
+    "all_answers": ["1990", "2000", "1987", "1991"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "e25d158a-430c-4ea9-8315-dfde6de2d54d",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "all_answers": ["Toyota", "Subaru", "Nissan", "Mazda"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "9e472e61-572e-4abc-8fc4-5e30beaf9c12",
+    "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+    "correct_answer": "Horse Racing",
+    "all_answers": ["Chess", "Jousting", "Fencing", "Horse Racing"],
+    "categoryId": "4847d956-e8a7-4015-9cd4-52b542e38da7",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "bef6ea8e-ca8f-4c09-a4ed-e1a8c32efda5",
+    "question": "How many countries does Mexico border?",
+    "correct_answer": "3",
+    "all_answers": ["2", "4", "1", "3"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "605ffe80-20af-4bd1-8ff9-1293716c24c3",
+    "question": "What colour is the circle on the Japanese flag?",
+    "correct_answer": "Red",
+    "all_answers": ["White", "Yellow", "Black", "Red"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "07d86686-f7f9-4b8b-af16-a93ae3835a85",
+    "question": "Which of these is the name of the largest city in the US state Tennessee?",
+    "correct_answer": "Memphis",
+    "all_answers": ["Thebes", "Alexandria", "Luxor", "Memphis"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "682d9e40-8d85-4d24-b673-e4084622dacc",
+    "question": "Which country is the home of the largest Japanese population outside of Japan?",
+    "correct_answer": "Brazil",
+    "all_answers": ["China", "Russia", "The United States", "Brazil"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "594462b0-88f4-44c5-bf54-5f562a80efab",
+    "question": "What is the official language of Costa Rica?",
+    "correct_answer": "Spanish",
+    "all_answers": ["English", "Portuguese", "Creole", "Spanish"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "f15cf550-2f43-4cdc-b7db-be9e73422eed",
+    "question": "Which of these is NOT an Australian state or territory?",
+    "correct_answer": "Alberta",
+    "all_answers": ["New South Wales", "Victoria", "Queensland", "Alberta"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.886Z",
+    "updatedAt": "2024-01-03T13:46:10.886Z"
+  },
+  {
+    "id": "c05179f9-5a45-4dc1-9c8b-355228c34c48",
+    "question": "The Alps are a mountain range on which continent?",
+    "correct_answer": "Europe",
+    "all_answers": ["North America", "Asia", "Africa", "Europe"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "ed40c8d8-64da-4895-9c51-2752fe85ee09",
+    "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+    "correct_answer": "Equatorial Guinea",
+    "all_answers": ["Guinea", "Cameroon", "Angola", "Equatorial Guinea"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "2fdb8edd-1925-4661-bc73-2a63b581c0de",
+    "question": "Which ocean borders the west coast of the United States?",
+    "correct_answer": "Pacific",
+    "all_answers": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "edc103ab-e9d2-4b9f-b61e-5985cc7a5eab",
+    "question": "Which of the following Japanese islands is the biggest?",
+    "correct_answer": "Honshu",
+    "all_answers": ["Hokkaido", "Shikoku", "Kyushu", "Honshu"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "be4e0593-79b2-4f37-b3f1-17590638dfb2",
+    "question": "The Space Needle is located in which city?",
+    "correct_answer": "Seattle",
+    "all_answers": ["Los Angles", "Toronto", "Vancouver", "Seattle"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "e8e28bbe-2b4a-4020-bd9e-bda4e66ae4f1",
+    "question": "What is the largest country in the world ?",
+    "correct_answer": "Russian Federation",
+    "all_answers": ["China", "Canada", "Brazil", "Russian Federation"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "4414ecbf-a94a-4815-8a36-58711878ffe3",
+    "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+    "correct_answer": "Basque",
+    "all_answers": ["Galician", "Maltese", "Hungarian", "Basque"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "137ddcfd-00bb-4300-bba7-9d8ad5493252",
+    "question": "What is the largest country in the world?",
+    "correct_answer": "Russia",
+    "all_answers": ["Canada", "China", "United States", "Russia"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "8df76eeb-5036-49c0-9eab-2874bcddae0e",
+    "question": "What is the capital of the American state of Arizona?",
+    "correct_answer": "Phoenix",
+    "all_answers": ["Montgomery", "Tallahassee", "Raleigh", "Phoenix"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "7defb4a9-3ee8-4010-a852-d41306f809c2",
+    "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+    "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+    "all_answers": [
+      "Poland, Iceland, Italy, Greece, Serbia",
+      "Poland, Iceland, Italy, Greenland, Spain",
+      "Portugal, Iceland, Ireland, Greece, Serbia",
+      "Portugal, Ireland, Italy, Greece, Spain"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "5372e73b-9b22-4c54-8e60-1148dff5fa03",
+    "question": "How many federal states does Germany have?",
+    "correct_answer": "16",
+    "all_answers": ["13", "32", "25", "16"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "021123f8-cb97-4fb3-911f-fe6836e8f638",
+    "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+    "correct_answer": "Samoyedic",
+    "all_answers": ["Hungarian", "Finnish", "Estonian", "Samoyedic"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "a7db56de-5d18-4aa5-851b-9e7c50f6f38e",
+    "question": "What is the capital of Spain?",
+    "correct_answer": "Madrid",
+    "all_answers": ["Barcelona", "Sevilla", "Toledo", "Madrid"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "3ecdc918-f845-47b4-9562-5b713501c34d",
+    "question": "What state is the largest state of the United States of America?",
+    "correct_answer": "Alaska",
+    "all_answers": ["California", "Texas", "Washington", "Alaska"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "55c2415c-5d28-41a6-9ac4-fe694a736dad",
+    "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+    "correct_answer": "Cyprus",
+    "all_answers": ["Malta", "Greece", "Portugal", "Cyprus"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "b492930c-e80d-4e3f-b42f-0e92fbd29ecb",
+    "question": "Which is the largest city in Morocco?",
+    "correct_answer": "Casablanca",
+    "all_answers": ["Rabat", "Fes", "Sale", "Casablanca"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "f58e684c-19fe-4524-9fea-a426cfbd22b8",
+    "question": "Which of these American cities has fewer than 1,000,000 people?",
+    "correct_answer": "San Francisco, California",
+    "all_answers": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania",
+      "San Francisco, California"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.887Z",
+    "updatedAt": "2024-01-03T13:46:10.887Z"
+  },
+  {
+    "id": "94cea72d-d7cd-4893-ba86-3bf07d2c25bd",
+    "question": "Which state of the United States is the smallest?",
+    "correct_answer": "Rhode Island ",
+    "all_answers": ["Maine", "Vermont", "Massachusetts", "Rhode Island "],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "c64eb900-506d-496a-98a2-326ca742fc7b",
+    "question": "Which of these countries is not a United Nations member state?",
+    "correct_answer": "Niue",
+    "all_answers": ["Tuvalu", "South Sudan", "Montenegro", "Niue"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "ea66d4b8-ace4-4197-96fa-e8f11c39a868",
+    "question": "How many sovereign states are members of the United Nations?",
+    "correct_answer": "195",
+    "all_answers": ["201", "153", "178", "195"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "ae049a39-0180-4b98-b4b2-dbca6f2da3d3",
+    "question": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+    "correct_answer": "Urutora",
+    "all_answers": ["Rungata", "London", "Washington", "Urutora"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "39d094d4-fe03-4db4-8d27-a6ec003d9e03",
+    "question": "How many countries does Spain have a land border with?",
+    "correct_answer": "5",
+    "all_answers": ["2", "3", "4", "5"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "d6a2c881-3f98-45ca-8a44-ae0605945a81",
+    "question": "On a London Underground map, what colour is the Circle Line?",
+    "correct_answer": "Yellow",
+    "all_answers": ["Red", "Blue", "Green", "Yellow"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "4c849243-6b49-4198-b5b3-cf87124eb421",
+    "question": "Which of the following is the longest river in Europe?",
+    "correct_answer": "Volga",
+    "all_answers": ["Danube", "Ural", "Dnieper", "Volga"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "9be75a1c-7698-46e0-a142-0254d8ede133",
+    "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+    "correct_answer": "Pakistan",
+    "all_answers": ["Iran", "Turkey", "Azerbaijan", "Pakistan"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "5d51bd96-a5c9-466c-979f-c86e5a04404c",
+    "question": "Which one of these countries borders with Poland?",
+    "correct_answer": "Lithuania",
+    "all_answers": ["France", "Norway", "Netherlands", "Lithuania"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "8bbf82d9-a7ef-4b35-aec0-3237632b5340",
+    "question": "The Japanese district Akihabara is also known by what nickname?",
+    "correct_answer": "Electric Town",
+    "all_answers": [
+      "Moon Walk River",
+      "Otaku Central ",
+      "Big Eyes",
+      "Electric Town"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "42642d97-6ddf-4bd0-927f-a25b81b33526",
+    "question": "What is the busiest port in Europe?",
+    "correct_answer": "Port of Rotterdam",
+    "all_answers": [
+      "Port of Antwerp",
+      "Port of Hamburg",
+      "Port of Amsterdam",
+      "Port of Rotterdam"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "06cc4ce6-0f76-45c9-863b-fb34e885a06e",
+    "question": "Where is Hadrian&#039;s Wall located?",
+    "correct_answer": "Carlisle, England",
+    "all_answers": [
+      "Rome, Italy",
+      "Alexandria, Egypt",
+      "Dublin, Ireland",
+      "Carlisle, England"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "61fbf477-b601-4b15-a84f-fa54bfdeeaa3",
+    "question": "What tiny principality lies between Spain and France?",
+    "correct_answer": "Andorra",
+    "all_answers": ["Liechtenstein", "Monaco", "San Marino", "Andorra"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "bcd71328-e8dd-49d2-83a3-e0ce55e1da01",
+    "question": "How many counties in the Republic of Ireland.",
+    "correct_answer": "26",
+    "all_answers": ["32", "28", "30", "26"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "1f7c85c7-b485-4d83-8c6a-aa0d788c69fb",
+    "question": "What is the largest Muslim country in the world?",
+    "correct_answer": "Indonesia",
+    "all_answers": ["Pakistan", "Saudi Arabia", "Iran", "Indonesia"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "0e75f707-549f-403c-bd56-6b08a6764b49",
+    "question": "Which of these country&#039;s capitals starts with the letter B?",
+    "correct_answer": "Lebanon",
+    "all_answers": ["Jordan", "Kuwait", "Qatar", "Lebanon"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "c86a0ea1-7b73-4c20-a640-92e746c03379",
+    "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+    "correct_answer": "Kashmir",
+    "all_answers": ["Andorra", "Gibraltar", "Quin", "Kashmir"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "deac7310-4c13-4566-a95c-25dd130294e1",
+    "question": "What is the area of Vatican City?",
+    "correct_answer": "0.44km^2",
+    "all_answers": ["0.10km^2", "0.86km^2", "12.00km^2", "0.44km^2"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "6f26a112-d485-47f2-b2f7-5bf67384bfc6",
+    "question": "Which of these cities is NOT in England?",
+    "correct_answer": "Edinburgh",
+    "all_answers": ["Oxford", "Manchester", "Southampton", "Edinburgh"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "76e729f4-3214-42af-9df2-b343de9f73a3",
+    "question": "What country is not a part of Scandinavia?",
+    "correct_answer": "Finland",
+    "all_answers": ["Norway", "Sweden", "Denmark", "Finland"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "dab7c5d8-6f54-426e-9da4-3f82004969b6",
+    "question": "What is the largest freshwater lake by volume?",
+    "correct_answer": "Lake Baikal",
+    "all_answers": [
+      "Lake Superior",
+      "Lake Huron",
+      "Lake Michigan",
+      "Lake Baikal"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.888Z",
+    "updatedAt": "2024-01-03T13:46:10.888Z"
+  },
+  {
+    "id": "114f54c4-7c4b-46c1-9145-b3fcca539a3d",
+    "question": "In which country is Tallinn located?",
+    "correct_answer": "Estonia",
+    "all_answers": ["Finland", "Sweden", "Poland", "Estonia"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "ae27f60a-ec6b-4ba5-8b28-caafaaed6464",
+    "question": "Which of these island countries is located in the Caribbean?",
+    "correct_answer": "Barbados",
+    "all_answers": ["Fiji", "Maldives", "Seychelles", "Barbados"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "8b9bb706-7502-4917-b4bc-755a43c344ec",
+    "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+    "correct_answer": "India",
+    "all_answers": ["Vietnam", "Thailand", "Indonesia", "India"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "f175e30d-98dc-4eb8-800b-7983ed7c80b7",
+    "question": "When does Finland celebrate their independence day?",
+    "correct_answer": "December 6th",
+    "all_answers": [
+      "January 2nd",
+      "November 12th",
+      "February 8th",
+      "December 6th"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "9aa0059d-6594-4872-b89b-57249b7fc3fe",
+    "question": "Fucking is a village in which country?",
+    "correct_answer": "Austria",
+    "all_answers": ["Germany", "Switzerland", "Czech Republic", "Austria"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "4ff48b04-f7e7-456e-a225-414cdd6dac80",
+    "question": "Into which basin does the Jordan River flow into?",
+    "correct_answer": "Dead Sea",
+    "all_answers": ["Aral Sea", "Caspian Sea", "Salton Sea", "Dead Sea"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "2aa01f55-d070-4a8d-a991-f07581f00e9a",
+    "question": "What is the second-largest city in Lithuania?",
+    "correct_answer": "Kaunas",
+    "all_answers": ["Panevėžys", "Vilnius", "Klaipėda", "Kaunas"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "d0dbc9b3-4aae-4afc-924d-03d99f7f8230",
+    "question": "Which country was NOT formerly part of Yugoslavia?",
+    "correct_answer": "Albania",
+    "all_answers": ["Croatia", "Serbia", "Macedonia", "Albania"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "a86385fe-ebe8-4dab-9016-0dc36dfc42f5",
+    "question": "Which of these countries is NOT a part of the Asian continent?",
+    "correct_answer": "Suriname",
+    "all_answers": ["Georgia", "Russia", "Singapore", "Suriname"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "ed62655e-1daa-46b3-8fa1-31d881feab4a",
+    "question": "The Hunua Ranges is located in...",
+    "correct_answer": "New Zealand",
+    "all_answers": ["Nepal", "China", "Mexico", "New Zealand"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "447d2922-2d51-4298-9293-f56b134e3854",
+    "question": "What is the capital of Mauritius?",
+    "correct_answer": "Port Louis",
+    "all_answers": [
+      "Port Moresby",
+      "Port Vila",
+      "Port-au-Prince",
+      "Port Louis"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "c0a05fd8-514c-42a7-8964-ac2b4f53b0ec",
+    "question": "What is the official German name of the Swiss Federal Railways?",
+    "correct_answer": "Schweizerische Bundesbahnen",
+    "all_answers": [
+      "Schweizerische Nationalbahnen",
+      "Bundesbahnen der Schweiz",
+      "Schweizerische Staatsbahnen",
+      "Schweizerische Bundesbahnen"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "5950c60e-984a-4dc8-bdb7-4b6301b5dbcf",
+    "question": "What is the largest city and commercial capital of Sri Lanka?",
+    "correct_answer": "Colombo",
+    "all_answers": ["Moratuwa", "Negombo", "Kandy", "Colombo"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "f29c5c33-8bc8-4ab4-86a9-646a91d2caa3",
+    "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+    "correct_answer": "Lishana Deni",
+    "all_answers": [
+      "Hulaul&aacute;",
+      "Lishan Didan",
+      "Chaldean Neo-Aramaic",
+      "Lishana Deni"
+    ],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "21c58e58-ca80-4f01-9190-3d3b94267bbb",
+    "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+    "correct_answer": "Crown",
+    "all_answers": ["Bird", "Sickle", "Tree", "Crown"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "cb4fc825-a544-492f-92c0-0f4a91031833",
+    "question": "Which is not a country in Africa?",
+    "correct_answer": "Guyana",
+    "all_answers": ["Senegal", "Liberia", "Somalia", "Guyana"],
+    "categoryId": "2c9c0a27-b967-430d-8433-67006d29a07c",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "6db6692b-1fd5-471d-9725-f2733b6cd1b0",
+    "question": "In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?",
+    "correct_answer": "John Blunt",
+    "all_answers": [
+      "Daniel Defoe",
+      "Robert Harley",
+      "John Churchill",
+      "John Blunt"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "5c25616f-325e-483f-a8b3-d393c6bda57e",
+    "question": "What year did World War I begin?",
+    "correct_answer": "1914",
+    "all_answers": ["1905", "1919", "1925", "1914"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "627bec60-b098-4e54-a8ea-084768e01631",
+    "question": "Who was the first president of the United States?",
+    "correct_answer": "George Washington",
+    "all_answers": [
+      "James Madison",
+      "Thomas Jefferson",
+      "James K. Polk",
+      "George Washington"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "7be09b0b-a7a7-4916-ba7a-51024f250bd5",
+    "question": "Which of these countries remained neutral during World War II?",
+    "correct_answer": "Switzerland",
+    "all_answers": ["United Kingdom", "France", "Italy", "Switzerland"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "5de9e9d8-07d1-4d4a-8d2c-20a31aac1218",
+    "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+    "correct_answer": "Nagasaki",
+    "all_answers": ["Kawasaki", "Tokyo", "Kagoshima", "Nagasaki"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "1bd81ff7-72b8-4e81-8391-f4f7198bb18d",
+    "question": "In 1453, which important city fell?",
+    "correct_answer": "Constantinople",
+    "all_answers": ["Rome", "Hamburg", "Athens", "Constantinople"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "5da35387-f90d-434a-8cdb-6adbc8cd905d",
+    "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+    "correct_answer": "Hannibal",
+    "all_answers": [
+      "Garmanicus",
+      "Alexander the Great",
+      "Tiberius",
+      "Hannibal"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "cb605ad8-77d3-41ed-ab4b-3edba229fac1",
+    "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+    "correct_answer": "Marie Antoinette",
+    "all_answers": [
+      "Czar Nicholas II",
+      "Elizabeth I",
+      "Henry VIII",
+      "Marie Antoinette"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.889Z",
+    "updatedAt": "2024-01-03T13:46:10.889Z"
+  },
+  {
+    "id": "793e8516-eef8-469a-b638-8e9a2146a40a",
+    "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+    "correct_answer": "1721",
+    "all_answers": ["1726", "1727", "1724", "1721"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "e153f18e-0b43-498a-8453-05db907f3934",
+    "question": "The Ottoman Empire was dissolved after their loss in which war?",
+    "correct_answer": "World War I",
+    "all_answers": [
+      "Crimean War",
+      "Serbian Revolution",
+      "Second Balkan War",
+      "World War I"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "2a4bbb12-7086-4ec1-aaf2-6073c4180d93",
+    "question": "What country joined the EU in 2013?",
+    "correct_answer": "Croatia",
+    "all_answers": ["Bulgaria", "Slovenia", "Turkey", "Croatia"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "83b48211-c3d0-4d7a-b957-e25dd993692a",
+    "question": "Who led the Communist Revolution of Russia?",
+    "correct_answer": "Vladimir Lenin",
+    "all_answers": [
+      "Joseph Stalin",
+      "Vladimir Putin",
+      "Mikhail Gorbachev",
+      "Vladimir Lenin"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "fd8b7c39-0608-453e-a788-8642b2d813ee",
+    "question": "These two countries held a commonwealth from the 16th to 18th century.",
+    "correct_answer": "Poland and Lithuania",
+    "all_answers": [
+      "Hutu and Rwanda",
+      "North Korea and South Korea",
+      "Bangladesh and Bhutan",
+      "Poland and Lithuania"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "e67ad6c0-1292-4287-9460-4e54da177a22",
+    "question": "What is the historical name of Sri Lanka?",
+    "correct_answer": "Ceylon",
+    "all_answers": ["Myanmar", "Colombo", "Badulla", "Ceylon"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "d7416fb9-7903-4add-89fd-73b9cfc1e0fd",
+    "question": "Which of the following countries was not an axis power during World War II?",
+    "correct_answer": " Soviet Union",
+    "all_answers": ["Italy", "Germany", "Japan", " Soviet Union"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "1c5fe617-6930-450f-8ffc-ff749a211890",
+    "question": "What was the first sport to have been played on the moon?",
+    "correct_answer": "Golf",
+    "all_answers": ["Football", "Tennis", "Soccer", "Golf"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "ad5f97be-68be-4773-b2e5-5bb438bf7085",
+    "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+    "correct_answer": "Poland",
+    "all_answers": ["Czechoslovakia", "Austria", "Hungary", "Poland"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "5bf8273c-64ff-4939-9a91-5570a231bff7",
+    "question": "Which of the following African countries was most successful in resisting colonization?",
+    "correct_answer": "Ethiopia",
+    "all_answers": [
+      "C&ocirc;te d&rsquo;Ivoire",
+      "Congo",
+      "Namibia",
+      "Ethiopia"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "1567e2bb-9be3-4c3e-b7fe-8b8914ed707c",
+    "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+    "correct_answer": "1990",
+    "all_answers": ["1992", "1988", "1986", "1990"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "950eecbc-208c-4d8c-953b-eed4c8cebd94",
+    "question": "Which modern country is known as &quot;The Graveyard of Empires&quot;?",
+    "correct_answer": "Afghanistan",
+    "all_answers": ["China", "Iraq", "Russia", "Afghanistan"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "03064de8-f9fb-480f-946d-0315bbf52c1f",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "26d12acd-6754-43ac-801f-8cf218cd4333",
+    "question": "Adolf Hitler was born on which date?",
+    "correct_answer": "April 20, 1889",
+    "all_answers": [
+      "June 12, 1889",
+      "February 6, 1889",
+      "April 16, 1889",
+      "April 20, 1889"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "f7894583-f7a0-49e3-bc40-e61032773857",
+    "question": "In which year did the First World War begin?",
+    "correct_answer": "1914",
+    "all_answers": ["1930", "1917", "1939", "1914"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "c5564190-8ea0-4853-97ba-21fbc705d257",
+    "question": "The Fallingwater House, located in Pennsylvania, was designed by which architect?",
+    "correct_answer": "Frank Lloyd Wright",
+    "all_answers": [
+      "Antoni Gaudi",
+      "Frank Gehry",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "c6edcad7-ea40-4051-825f-b73ecb18dec3",
+    "question": "One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?",
+    "correct_answer": "3 to 6 percent",
+    "all_answers": [
+      "6 to 10 percent",
+      "1 to 3 percent",
+      "less than 1 percent",
+      "3 to 6 percent"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "14823a2e-0fbb-46e3-b496-a8b4d4c6d8b9",
+    "question": "Which country gifted the Statue of Liberty to the United States of America?",
+    "correct_answer": "France",
+    "all_answers": ["Spain", "England", "Germany", "France"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "7063b86c-df8b-4518-acbf-e7f55a18a82e",
+    "question": "Which of the following snipers has the highest amount of confirmed kills?",
+    "correct_answer": "Simo H&auml;yh&auml;",
+    "all_answers": [
+      "Chris Kyle",
+      "Vasily Zaytsev",
+      "Craig Harrison",
+      "Simo H&auml;yh&auml;"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "efe7236a-4a8b-4398-af4b-6965e6d27e68",
+    "question": "In what prison was Adolf Hitler held in 1924?",
+    "correct_answer": "Landsberg Prison",
+    "all_answers": [
+      "Spandau Prison",
+      "Ebrach Abbey",
+      "Hohenasperg",
+      "Landsberg Prison"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "c1624c12-6fb8-4ae7-8538-c5e81aa03c58",
+    "question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+    "correct_answer": "Irish Republican Army",
+    "all_answers": [
+      "Irish Rebel Alliance",
+      "Irish Reformation Army",
+      "Irish-Royal Alliance",
+      "Irish Republican Army"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "2a355faf-e61c-4634-9479-ab4f8568477f",
+    "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+    "correct_answer": "The Flamingo",
+    "all_answers": ["The MGM Grand", "The Sands", "The Sahara", "The Flamingo"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "b082ab28-9c8b-451a-824f-bd5b0d92c77f",
+    "question": "When did L. L. Zamenhof first publish &quot;Unua Libro&quot;, the first publication describing his international language Esperanto?",
+    "correct_answer": "1887",
+    "all_answers": ["1897", "1905", "1915", "1887"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.890Z",
+    "updatedAt": "2024-01-03T13:46:10.890Z"
+  },
+  {
+    "id": "12032d7d-371d-441d-bfcc-d9b6362234ce",
+    "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+    "correct_answer": "107 BCE",
+    "all_answers": ["42 BCE", "264 BCE", "102 CE", "107 BCE"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "1264d505-73bf-46f0-965e-a4570c05f14b",
+    "question": "Which of the following Presidents of the United States was assassinated?",
+    "correct_answer": "William McKinley",
+    "all_answers": [
+      "Lyndon Johnson",
+      "Chester Arthur",
+      "Franklin Roosevelt",
+      "William McKinley"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "9b5af7cd-4cb3-4957-a4a9-43ac7bdb84a7",
+    "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+    "correct_answer": "Shamshi-Adad III",
+    "all_answers": [
+      "Shalmaneser V",
+      "Esharhaddon",
+      "Ashur-nasir-pal II",
+      "Shamshi-Adad III"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "cf640760-e9a4-455f-88fb-3bc2cdba161f",
+    "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+    "correct_answer": "Richard III",
+    "all_answers": ["Edward V", "Henry VII", "James I", "Richard III"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "780014b3-bc44-4c7c-b41f-b87e31f48fd3",
+    "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+    "correct_answer": "The Central Powers",
+    "all_answers": [
+      "The Axis Powers",
+      "The Federation of Empires",
+      "Authoritarian Alliance",
+      "The Central Powers"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "6afa8766-b6c5-4991-985c-c3a3cf9bc3a1",
+    "question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+    "correct_answer": "1969",
+    "all_answers": ["1965", "1966", "1973", "1969"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "8d80a2fd-5b2e-4982-b9e9-cfce5ad5afd5",
+    "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+    "correct_answer": "Agent Orange",
+    "all_answers": [
+      "Phosgene",
+      "Mustard Gas",
+      "Hydrogen Cyanide",
+      "Agent Orange"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "da521750-3190-4fae-a70e-35e80bc0bb1a",
+    "question": "When did the Battle of the Bulge end?",
+    "correct_answer": "January 25, 1945",
+    "all_answers": [
+      "August 6, 1945",
+      "December 7, 1941",
+      "December 16, 1944",
+      "January 25, 1945"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "3ddacc91-02f1-4660-9e41-8d1a9cf40987",
+    "question": "What was the total length of the Titanic?",
+    "correct_answer": "882 ft | 268.8 m",
+    "all_answers": [
+      "759 ft | 231.3 m",
+      "1042 ft | 317.6 m",
+      "825 ft | 251.5 m",
+      "882 ft | 268.8 m"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "b7fee270-e95a-46e2-932a-4db562d3eb68",
+    "question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+    "correct_answer": "USS Hornet",
+    "all_answers": [
+      "USS Enterprise",
+      "USS Lexington",
+      "USS Saratoga",
+      "USS Hornet"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "4481414b-dcf0-4e6e-b956-2878e213e993",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "c360159e-8c0e-4ed6-9e78-b366fa8e3f30",
+    "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+    "correct_answer": "Australia",
+    "all_answers": ["India", "Canada", "Brazil", "Australia"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "3724e98f-3f5e-422c-a4a3-255896f80f9a",
+    "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+    "correct_answer": "Surveyor to the City of London",
+    "all_answers": [
+      "Professor of Mathematics",
+      "Warden of the Royal Mint",
+      "Member of Parliament",
+      "Surveyor to the City of London"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "f416cfc9-f3de-41c5-9023-c28d83f92f7c",
+    "question": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+    "correct_answer": "Operation Typhoon",
+    "all_answers": [
+      "Operation Sunflower",
+      "Operation Barbarossa",
+      "Case Blue",
+      "Operation Typhoon"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "a84866fb-1a4b-4c51-b9c3-b06b69c8e953",
+    "question": "Which countries participated in the Lobster War?",
+    "correct_answer": "France and Brazil",
+    "all_answers": [
+      "Canada and Norway",
+      "Australia and New Zealand",
+      "United States and England",
+      "France and Brazil"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "d265e39e-d665-4808-96d1-4b64360bb3cb",
+    "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+    "correct_answer": "Mamluk",
+    "all_answers": ["Ayyubid", "Ummayyad", "Seljuq", "Mamluk"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "0ccc4ac9-3ab5-443d-967a-dcce7c1b21f2",
+    "question": "Which of these theoretical phycisists first predicted the existence of antimatter?",
+    "correct_answer": "Paul Dirac",
+    "all_answers": [
+      "Niels Bohr",
+      "Albert Einstein",
+      "Werner Heisenberg",
+      "Paul Dirac"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "37caf94b-6583-4b4c-b65b-f135376497ad",
+    "question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+    "correct_answer": "Werner Heisenberg",
+    "all_answers": [
+      "John von Neumann",
+      "Albert Einstein",
+      "Max Planck",
+      "Werner Heisenberg"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "b099276c-2368-4578-9f4a-b245a7eaecae",
+    "question": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+    "correct_answer": "Nationalist Spain",
+    "all_answers": [
+      "Republican Spain",
+      "Popular Front",
+      "Papal State",
+      "Nationalist Spain"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "20a6eda8-4a2c-4ff9-811c-58fb35abc8fd",
+    "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+    "correct_answer": "Alexander VI",
+    "all_answers": ["Innocent V", "Urban II", "Pius III", "Alexander VI"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "1d35308c-26f6-434f-9acb-87fd8872e07f",
+    "question": "Toussaint Louverture led a successful slave revolt in which country?",
+    "correct_answer": "Haiti",
+    "all_answers": ["France", "Cuba", "United States", "Haiti"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "a84e84ef-afaf-429d-bb51-823578aa67d2",
+    "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+    "correct_answer": "Franklin Pierce",
+    "all_answers": [
+      "Andrew Johnson",
+      "Abraham Lincoln",
+      "James Polk",
+      "Franklin Pierce"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "287167e8-96d2-4390-b4c9-f39cb0b9ff12",
+    "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+    "correct_answer": "Hong Kong",
+    "all_answers": ["India", "Australia", "Ireland", "Hong Kong"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.891Z",
+    "updatedAt": "2024-01-03T13:46:10.891Z"
+  },
+  {
+    "id": "eccbbb2f-50e1-42bd-90df-6c0d0d73a6a8",
+    "question": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?",
+    "correct_answer": "Richard Neville",
+    "all_answers": [
+      "Richard III",
+      "Henry V",
+      "Thomas Warwick",
+      "Richard Neville"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "7634ef42-6ab0-4e88-a1ea-b002ce24a559",
+    "question": "The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?",
+    "correct_answer": "Navarre",
+    "all_answers": ["Galicia", "Granada", "Catalonia", "Navarre"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "1faa9488-db1f-42fb-abfc-594235d918af",
+    "question": "What was the original name of New York City?",
+    "correct_answer": "New Amsterdam",
+    "all_answers": ["New London", "New Paris", "New Rome", "New Amsterdam"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "cfb365ef-5dc2-436d-bf58-828927a2e035",
+    "question": "Which of the following physicists did NOT work on the Manhattan project?",
+    "correct_answer": "Murray Gell-Mann",
+    "all_answers": [
+      "Richard Feynman",
+      "J. Robert Oppenheimer",
+      "John Von-Neumann",
+      "Murray Gell-Mann"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "e3d7badc-13f6-425a-8825-b41265be8c18",
+    "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+    "correct_answer": "Justinian I",
+    "all_answers": [
+      "Constantine IV",
+      "Arcadius",
+      "Theodosius the Great",
+      "Justinian I"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "d5fd2ad8-4702-490e-8d30-ed3aa24ef875",
+    "question": "When was the city of Rome, Italy founded?",
+    "correct_answer": "753 BCE",
+    "all_answers": ["902 BCE", "524 BCE", "697 BCE", "753 BCE"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "b81466ef-63bb-4eec-adeb-2576d1fdf73b",
+    "question": "When was Adolf Hitler appointed as Chancellor of Germany?",
+    "correct_answer": "January 30, 1933",
+    "all_answers": [
+      "September 1, 1939",
+      "February 27, 1933",
+      "October 6, 1939",
+      "January 30, 1933"
+    ],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  },
+  {
+    "id": "d89e30cf-99c3-4653-ad30-cf6d86d82050",
+    "question": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+    "correct_answer": "Aragon",
+    "all_answers": ["Galicia", "Le&oacute;n", "Navarre", "Aragon"],
+    "categoryId": "dce3ec5c-ddd0-4f30-be81-212d86286e76",
+    "difficultyId": "9e907738-0ed9-404c-b3a4-b6296fe841d8",
+    "createdAt": "2024-01-03T13:46:10.892Z",
+    "updatedAt": "2024-01-03T13:46:10.892Z"
+  }
+]
