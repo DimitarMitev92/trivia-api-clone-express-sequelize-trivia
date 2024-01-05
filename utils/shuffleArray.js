@@ -9,7 +9,7 @@ function shuffleStrings(array) {
   return shuffledArray;
 }
 
-function shuffleArray(dataArray) {
+function shuffledArray(dataArray) {
   const shuffledArray = [...dataArray];
   for (let i = shuffledArray.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -20,4 +20,4 @@ function shuffleArray(dataArray) {
   return shuffledArray;
 }
 
-module.exports = { shuffleArray };
+module.exports = { shuffledArray };

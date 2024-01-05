@@ -1,30 +1,41 @@
 "use strict";
+const { Model, Sequelize } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  const Difficulty = sequelize.define(
-    "difficulty",
+  class difficulty extends Model {
+    /**
+     * Helper method for defining associations.
+     * This method is not a part of Sequelize lifecycle.
+     * The `models/index` file will call this method automatically.
+     */
+    static associate(models) {
+      difficulty.hasMany(models.questions, {
+        foreignKey: "difficultyId",
+        as: "questions",
+      });
+    }
+  }
+  difficulty.init(
     {
       id: {
-        type: DataTypes.UUID,
-        defaultValue: DataTypes.UUIDV4,
+        type: Sequelize.DataTypes.UUID,
+        defaultValue: Sequelize.DataTypes.UUIDV4,
         primaryKey: true,
       },
       difficulty: {
-        type: DataTypes.STRING,
+        type: Sequelize.DataTypes.STRING,
         allowNull: false,
-      },
-      createdAt: {
-        allowNull: false,
-        type: DataTypes.DATE,
-        defaultValue: DataTypes.NOW,
-      },
-      updatedAt: {
-        allowNull: false,
-        type: DataTypes.DATE,
-        defaultValue: DataTypes.NOW,
       },
     },
-    {}
+    {
+      sequelize,
+      modelName: "difficulties",
+      createdAt: "created",
+      updatedAt: "updated",
+      deletedAt: "deleted",
+      paranoid: true,
+      freezeTableName: true,
+      timestamps: true,
+    }
   );
-
-  return Difficulty;
+  return difficulty;
 };

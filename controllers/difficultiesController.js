@@ -1,19 +1,15 @@
-const { sequelize } = require("../database");
+const { db } = require("../db/index");
 
 const getAllDifficulties = async (req, res) => {
   try {
-    const query = "SELECT * FROM difficulties ORDER BY difficulty ASC";
-    const difficulties = await sequelize.query(query, {
-      type: sequelize.QueryTypes.SELECT,
+    const difficulties = await db.difficulty.findAll({
+      order: [["difficulty", "ASC"]],
     });
-
     res.json(difficulties);
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: "Internal Server Error" });
+    res.status(500).json({ error: error.message });
   }
 };
 
-module.exports = {
-  getAllDifficulties,
-};
+module.exports = { getAllDifficulties };

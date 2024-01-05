@@ -1,35 +1,54 @@
 "use strict";
-
 const { Model, Sequelize } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class category extends Model {
+  class questions extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      category.hasMany(models.questions, {
+      questions.belongsTo(models.category, {
         foreignKey: "categoryId",
-        as: "questions",
+        as: "categories",
+      });
+      questions.belongsTo(models.difficulty, {
+        foreignKey: "difficultyId",
+        as: "difficulties",
       });
     }
   }
-  category.init(
+  questions.init(
     {
       id: {
         type: Sequelize.DataTypes.UUID,
         defaultValue: Sequelize.DataTypes.UUIDV4,
         primaryKey: true,
       },
-      category: {
+      question: {
         type: Sequelize.DataTypes.STRING,
+        allowNull: false,
+      },
+      correct_answer: {
+        type: Sequelize.DataTypes.STRING,
+        allowNull: false,
+      },
+      all_answers: {
+        type: Sequelize.DataTypes.ARRAY(Sequelize.DataTypes.STRING),
+        allowNull: false,
+      },
+      categoryId: {
+        type: Sequelize.DataTypes.UUID,
+        allowNull: false,
+      },
+      difficultyId: {
+        type: Sequelize.DataTypes.UUID,
         allowNull: false,
       },
     },
     {
       sequelize,
-      modelName: "categories",
+      modelName: "questions",
       createdAt: "created",
       updatedAt: "updated",
       deletedAt: "deleted",
@@ -38,5 +57,5 @@ module.exports = (sequelize, DataTypes) => {
       timestamps: true,
     }
   );
-  return category;
+  return questions;
 };
