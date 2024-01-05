@@ -9,8 +9,7 @@ const quizzesData = transformJson(data);
 module.exports = {
   async up(queryInterface) {
     const difficultiesMap = {};
-
-    //Seed difficulties
+    // Seed difficulties
     for (const quiz of quizzesData) {
       if (!difficultiesMap[quiz.difficulty]) {
         const existingDifficulty = await db.difficulty.findAll({
@@ -18,7 +17,6 @@ module.exports = {
             difficulty: quiz.difficulty,
           },
         });
-
         if (existingDifficulty.length === 0) {
           await queryInterface.bulkInsert("difficulties", [
             {

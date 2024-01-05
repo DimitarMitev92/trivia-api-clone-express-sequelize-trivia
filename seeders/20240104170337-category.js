@@ -9,8 +9,7 @@ const quizzesData = transformJson(data);
 module.exports = {
   async up(queryInterface) {
     const categoriesMap = {};
-
-    //Seed categories
+    // Seed categories
     for (const quiz of quizzesData) {
       if (!categoriesMap[quiz.category]) {
         const existingCategory = await db.category.findAll({
@@ -18,7 +17,6 @@ module.exports = {
             category: quiz.category,
           },
         });
-
         if (existingCategory.length === 0) {
           await queryInterface.bulkInsert("categories", [
             {

@@ -2,11 +2,6 @@
 const { Model, Sequelize } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
   class questions extends Model {
-    /**
-     * Helper method for defining associations.
-     * This method is not a part of Sequelize lifecycle.
-     * The `models/index` file will call this method automatically.
-     */
     static associate(models) {
       questions.belongsTo(models.category, {
         foreignKey: "categoryId",
@@ -24,6 +19,9 @@ module.exports = (sequelize, DataTypes) => {
         type: Sequelize.DataTypes.UUID,
         defaultValue: Sequelize.DataTypes.UUIDV4,
         primaryKey: true,
+        validate: {
+          isUUID: 4,
+        },
       },
       question: {
         type: Sequelize.DataTypes.STRING,
@@ -40,10 +38,16 @@ module.exports = (sequelize, DataTypes) => {
       categoryId: {
         type: Sequelize.DataTypes.UUID,
         allowNull: false,
+        validate: {
+          isUUID: 4,
+        },
       },
       difficultyId: {
         type: Sequelize.DataTypes.UUID,
         allowNull: false,
+        validate: {
+          isUUID: 4,
+        },
       },
     },
     {
