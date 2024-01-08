@@ -9,14 +9,18 @@ const shuffledQuestionsByCategoryAndDifficulty = async (req, res) => {
   const categoryExist = await db.category.findByPk(categoryId);
 
   if (categoryExist === null) {
+    //RETURN res.json and status
     throw new Error("No such category exists");
   }
 
   const difficultyExist = await db.difficulty.findByPk(difficultyId);
 
   if (difficultyExist === null) {
+    //RETURN res.json and status
     throw new Error("No such difficulty exists");
   }
+
+  // CREATE ASSIGNMENT FOR UUID ERROR THROW
 
   const questionsForCategory = await db.questions.findAll({
     where: {

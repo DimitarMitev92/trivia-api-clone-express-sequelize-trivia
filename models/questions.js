@@ -35,6 +35,7 @@ module.exports = (sequelize, DataTypes) => {
         type: Sequelize.DataTypes.ARRAY(Sequelize.DataTypes.STRING),
         allowNull: false,
       },
+      //CHANGE categoryId to correct_id
       categoryId: {
         type: Sequelize.DataTypes.UUID,
         allowNull: false,
@@ -42,6 +43,7 @@ module.exports = (sequelize, DataTypes) => {
           isUUID: 4,
         },
       },
+      //CHANGE difficultyId to difficulty_id
       difficultyId: {
         type: Sequelize.DataTypes.UUID,
         allowNull: false,
