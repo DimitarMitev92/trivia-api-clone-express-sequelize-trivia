@@ -5,6 +5,7 @@ module.exports = {
     await queryInterface.createTable("questions", {
       id: {
         type: Sequelize.UUID,
+        // set to be equal like models 
         defaultValue: Sequelize.fn("gen_random_uuid"),
         primaryKey: true,
       },

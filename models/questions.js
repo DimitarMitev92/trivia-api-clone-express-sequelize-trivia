@@ -1,6 +1,7 @@
 "use strict";
 const { Model, Sequelize } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
+  //class must be Upper case
   class questions extends Model {
     static associate(models) {
       questions.belongsTo(models.category, {
